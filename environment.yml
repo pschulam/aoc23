@@ -1,0 +1,4 @@
+name: aoc23
+dependencies:
+  - python=3.11
+  - ipython
