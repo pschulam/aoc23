@@ -19,8 +19,8 @@ we need to find the roots and take all integer values between the roots
 between the roots).
 
 We can solve for the roots using the quadratic equation:
-p1 = (t + math.sqrt(t**2 - 4*r)) / (-2)
-p2 = (t - math.sqrt(t**2 - 4*r)) / (-2)
+p1 = (-t + math.sqrt(t**2 - 4*r)) / (-2)
+p2 = (-t - math.sqrt(t**2 - 4*r)) / (-2)
 
 """
 import math
